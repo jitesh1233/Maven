@@ -12,4 +12,9 @@
     <scope>test</scope>
 </dependency>
  </dependencies>
+  <dependency>
+    <groupId>sp.sd</groupId>
+    <artifactId>nexus-artifact-uploader</artifactId>
+    <version>2.14</version>
+</dependency>
 </project>
