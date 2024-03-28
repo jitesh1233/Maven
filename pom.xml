@@ -12,20 +12,6 @@
     <scope>test</scope>
 </dependency>
  </dependencies>
-  <dependency>
-    <groupId>sp.sd</groupId>
-    <artifactId>nexus-artifact-uploader</artifactId>
-    <version>2.14</version>
-</dependency>
-   <distributionManagement>
- <!-- Publish the versioned releases here -->
- 
-  <snapshotRepository>
-  <id>nexus</id>
-  <name>maven-snapshots</name>
-  <url>http://13.234.32.51:8081/repository/maven-snapshots/</url>
- </snapshotRepository>
-
-</distributionManagement>
+  
 </project>
 </project>
